@@ -2,6 +2,10 @@
 
 .idea/
 
+# User-specific files
+
+*.user
+
 # Build results
 
 [Dd]ebug/
