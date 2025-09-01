@@ -7,7 +7,7 @@ namespace Application.Controllers;
 public class HealthController : ControllerBase
 {
     [HttpGet]
-    public ActionResult<string> Check()
+    public ActionResult Check()
     {
         return Ok();
     }
