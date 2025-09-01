@@ -1,7 +1,7 @@
 ﻿using Application.Controllers;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Application.Tests;
+namespace Application.Tests.Controllers;
 
 public class Tests
 {
